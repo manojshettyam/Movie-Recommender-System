@@ -1,2 +1,4 @@
 # Movie-Recommender-System
-Movie Recommender System - Personalized movie recommendations based on content. Using cosine similarity, find your perfect film effortlessly. Enhance your movie-watching experience
+Movie Recommender System - A content-based movie recommender utilizing cosine similarity.
+
+Discovering the perfect movie has never been easier! Our recommender system analyzes movie content and utilizes cosine similarity to provide personalized movie recommendations tailored to your preferences. Say goodbye to endless searching and hello to an enhanced movie-watching experience. 
